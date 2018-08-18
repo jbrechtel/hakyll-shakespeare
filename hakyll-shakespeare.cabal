@@ -1,5 +1,5 @@
 name:          hakyll-shakespeare
-version:       0.1.0.0.2
+version:       0.2.0.0.0
 synopsis:      Hakyll Hamlet compiler
 license:       MIT
 license-file:  LICENSE
